@@ -1,0 +1,6 @@
+{
+  "name": "卡皮巴拉一年级乘除法乐园",
+  "description": "专为一年级儿童打造的卡皮巴拉风格趣味乘除法启蒙乐园，包含实物分组与平均分可视化探索、水豚换装间、自信心能量条、温泉分食物游戏、气球戳戳乐及语音助学。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
